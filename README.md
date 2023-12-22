@@ -8,7 +8,7 @@
 ``` bash
 git clone https://github.com/PatinyaJanphen/TestBack-end.git
 cd apiChallenge
-pip install requirement.txt
+pip install requirements.txt
 ```
 
 ## How to run

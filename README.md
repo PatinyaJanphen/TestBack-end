@@ -6,6 +6,7 @@
 ## How to install
 
 ``` bash
+go to [https://www.python.org/] and downloads python version 3.12.1
 git clone https://github.com/PatinyaJanphen/TestBack-end.git
 cd apiChallenge
 pip install -r requirements.txt

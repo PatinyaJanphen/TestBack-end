@@ -1,4 +1,4 @@
-# Welcome to Fibonacci Sequence!
+# Fibonacci Sequence!
 
 เป็นโปรแกรมที่พัฒนาด้วย Django(Python) ในการรับค่าตัวเลขจาก URL และนำตัวเลขนั้นมาทำ fibonacci sequence แล้วส่งกลับข้อมูลที่ได้ในรูปแบบ Json
  
